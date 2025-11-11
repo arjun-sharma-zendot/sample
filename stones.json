@@ -1,0 +1,323 @@
+{
+"data": [
+{
+"id": 5,
+"documentId": "qjw3j6gbfjsfttcgt8ujfvco",
+"stoneName": "Diamond",
+"createdAt": "2025-11-05T08:34:51.597Z",
+"updatedAt": "2025-11-05T10:41:19.277Z",{
+  "data": [
+    {
+      "id": 5,
+      "documentId": "qjw3j6gbfjsfttcgt8ujfvco",
+      "stoneName": "Diamond",
+      "createdAt": "2025-11-05T08:34:51.597Z",
+      "updatedAt": "2025-11-05T10:41:19.277Z",
+      "publishedAt": "2025-11-05T10:41:20.097Z",
+      "minCarateRange": 0.01,
+      "maxCarateRange": 10,
+      "stone_parameters": [
+        {
+          "id": 2,
+          "documentId": "ufyx7i5ee0656e80aab0ebjb",
+          "attributeName": "Cut",
+          "attributeOptions": [
+            "Round",
+            "Princess",
+            "Cushion",
+            "Emerald",
+            "Marquise"
+          ],
+          "createdAt": "2025-11-05T08:35:59.217Z",
+          "updatedAt": "2025-11-05T08:35:59.217Z",
+          "publishedAt": "2025-11-05T08:35:59.816Z"
+        },
+        {
+          "id": 5,
+          "documentId": "ooy5vqbnwszvn9ijpdonyizp",
+          "attributeName": "originType",
+          "attributeOptions": [
+            "Natural",
+            "Lab-Grown"
+          ],
+          "createdAt": "2025-11-05T08:37:38.720Z",
+          "updatedAt": "2025-11-05T08:37:44.797Z",
+          "publishedAt": "2025-11-05T08:37:45.494Z"
+        },
+        {
+          "id": 7,
+          "documentId": "zblxxk1vjswzfmiy9xhe8g4f",
+          "attributeName": "Clarity",
+          "attributeOptions": [
+            "IF",
+            "VVS1",
+            "VS2",
+            "SI1",
+            "SI2",
+            "I1"
+          ],
+          "createdAt": "2025-11-05T08:41:26.411Z",
+          "updatedAt": "2025-11-05T08:41:26.411Z",
+          "publishedAt": "2025-11-05T08:41:26.985Z"
+        },
+        {
+          "id": 13,
+          "documentId": "uwfj4bd9ypd1aryinw4uwz0k",
+          "attributeName": "ColorGrade",
+          "attributeOptions": [
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"
+          ],
+          "createdAt": "2025-11-05T10:27:45.759Z",
+          "updatedAt": "2025-11-05T10:27:45.759Z",
+          "publishedAt": "2025-11-05T10:27:47.150Z"
+        },
+        {
+          "id": 17,
+          "documentId": "jkcbvge561jqcycrhxa89p85",
+          "attributeName": "Certification",
+          "attributeOptions": [
+            "GIA",
+            "IGI",
+            "SGL"
+          ],
+          "createdAt": "2025-11-05T10:30:45.371Z",
+          "updatedAt": "2025-11-05T10:30:45.371Z",
+          "publishedAt": "2025-11-05T10:30:45.964Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "documentId": "chdxlul7nupjjjw5chrq2pig",
+      "stoneName": "Ruby",
+      "createdAt": "2025-11-05T08:41:53.892Z",
+      "updatedAt": "2025-11-05T10:42:08.382Z",
+      "publishedAt": "2025-11-05T10:42:08.913Z",
+      "minCarateRange": 0.1,
+      "maxCarateRange": 15,
+      "stone_parameters": [
+        {
+          "id": 9,
+          "documentId": "uuvrwepnjxrez0gpns9yxymj",
+          "attributeName": "Cut",
+          "attributeOptions": [
+            "Oval",
+            "Cushion",
+            "Round",
+            "Cabochon"
+          ],
+          "createdAt": "2025-11-05T08:44:34.051Z",
+          "updatedAt": "2025-11-05T08:44:34.051Z",
+          "publishedAt": "2025-11-05T08:44:34.705Z"
+        },
+        {
+          "id": 11,
+          "documentId": "zit3hmrraafqzwit1xzco5ft",
+          "attributeName": "Clarity",
+          "attributeOptions": [
+            "Transparent",
+            "Translucent",
+            "Opaque"
+          ],
+          "createdAt": "2025-11-05T10:26:50.005Z",
+          "updatedAt": "2025-11-05T10:26:50.005Z",
+          "publishedAt": "2025-11-05T10:26:50.548Z"
+        },
+        {
+          "id": 15,
+          "documentId": "czi8whmkidoy4ievmt7fqyji",
+          "attributeName": "ColorShade",
+          "attributeOptions": [
+            "Deep Red",
+            "Pinkish Red",
+            "Purplish Red"
+          ],
+          "createdAt": "2025-11-05T10:28:33.774Z",
+          "updatedAt": "2025-11-05T10:28:33.774Z",
+          "publishedAt": "2025-11-05T10:28:34.462Z"
+        },
+        {
+          "id": 19,
+          "documentId": "a6na30yvc9o7tlf9r9vveukv",
+          "attributeName": "Certification",
+          "attributeOptions": [
+            "GIA",
+            "IGI",
+            "None"
+          ],
+          "createdAt": "2025-11-05T10:31:25.559Z",
+          "updatedAt": "2025-11-05T10:31:25.559Z",
+          "publishedAt": "2025-11-05T10:31:26.177Z"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}
+"publishedAt": "2025-11-05T10:41:20.097Z",
+"minCarateRange": 0.01,
+"maxCarateRange": 10,
+"stone_parameters": [
+{
+"id": 2,
+"documentId": "ufyx7i5ee0656e80aab0ebjb",
+"attributeName": "Cut",
+"attributeOptions": [
+"Round",
+"Princess",
+"Cushion",
+"Emerald",
+"Marquise"
+],
+"createdAt": "2025-11-05T08:35:59.217Z",
+"updatedAt": "2025-11-05T08:35:59.217Z",
+"publishedAt": "2025-11-05T08:35:59.816Z"
+},
+{
+"id": 5,
+"documentId": "ooy5vqbnwszvn9ijpdonyizp",
+"attributeName": "originType",
+"attributeOptions": [
+"Natural",
+"Lab-Grown"
+],
+"createdAt": "2025-11-05T08:37:38.720Z",
+"updatedAt": "2025-11-05T08:37:44.797Z",
+"publishedAt": "2025-11-05T08:37:45.494Z"
+},
+{
+"id": 7,
+"documentId": "zblxxk1vjswzfmiy9xhe8g4f",
+"attributeName": "Clarity",
+"attributeOptions": [
+"IF",
+"VVS1",
+"VS2",
+"SI1",
+"SI2",
+"I1"
+],
+"createdAt": "2025-11-05T08:41:26.411Z",
+"updatedAt": "2025-11-05T08:41:26.411Z",
+"publishedAt": "2025-11-05T08:41:26.985Z"
+},
+{
+"id": 13,
+"documentId": "uwfj4bd9ypd1aryinw4uwz0k",
+"attributeName": "ColorGrade",
+"attributeOptions": [
+"D",
+"E",
+"F",
+"G",
+"H",
+"I",
+"J"
+],
+"createdAt": "2025-11-05T10:27:45.759Z",
+"updatedAt": "2025-11-05T10:27:45.759Z",
+"publishedAt": "2025-11-05T10:27:47.150Z"
+},
+{
+"id": 17,
+"documentId": "jkcbvge561jqcycrhxa89p85",
+"attributeName": "Certification",
+"attributeOptions": [
+"GIA",
+"IGI",
+"SGL"
+],
+"createdAt": "2025-11-05T10:30:45.371Z",
+"updatedAt": "2025-11-05T10:30:45.371Z",
+"publishedAt": "2025-11-05T10:30:45.964Z"
+}
+]
+},
+{
+"id": 6,
+"documentId": "chdxlul7nupjjjw5chrq2pig",
+"stoneName": "Ruby",
+"createdAt": "2025-11-05T08:41:53.892Z",
+"updatedAt": "2025-11-05T10:42:08.382Z",
+"publishedAt": "2025-11-05T10:42:08.913Z",
+"minCarateRange": 0.1,
+"maxCarateRange": 15,
+"stone_parameters": [
+{
+"id": 9,
+"documentId": "uuvrwepnjxrez0gpns9yxymj",
+"attributeName": "Cut",
+"attributeOptions": [
+"Oval",
+"Cushion",
+"Round",
+"Cabochon"
+],
+"createdAt": "2025-11-05T08:44:34.051Z",
+"updatedAt": "2025-11-05T08:44:34.051Z",
+"publishedAt": "2025-11-05T08:44:34.705Z"
+},
+{
+"id": 11,
+"documentId": "zit3hmrraafqzwit1xzco5ft",
+"attributeName": "Clarity",
+"attributeOptions": [
+"Transparent",
+"Translucent",
+"Opaque"
+],
+"createdAt": "2025-11-05T10:26:50.005Z",
+"updatedAt": "2025-11-05T10:26:50.005Z",
+"publishedAt": "2025-11-05T10:26:50.548Z"
+},
+{
+"id": 15,
+"documentId": "czi8whmkidoy4ievmt7fqyji",
+"attributeName": "ColorShade",
+"attributeOptions": [
+"Deep Red",
+"Pinkish Red",
+"Purplish Red"
+],
+"createdAt": "2025-11-05T10:28:33.774Z",
+"updatedAt": "2025-11-05T10:28:33.774Z",
+"publishedAt": "2025-11-05T10:28:34.462Z"
+},
+{
+"id": 19,
+"documentId": "a6na30yvc9o7tlf9r9vveukv",
+"attributeName": "Certification",
+"attributeOptions": [
+"GIA",
+"IGI",
+"None"
+],
+"createdAt": "2025-11-05T10:31:25.559Z",
+"updatedAt": "2025-11-05T10:31:25.559Z",
+"publishedAt": "2025-11-05T10:31:26.177Z"
+}
+]
+}
+],
+"meta": {
+"pagination": {
+"page": 1,
+"pageSize": 25,
+"pageCount": 1,
+"total": 2
+}
+}
+}
