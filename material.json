@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "id": 5,
+      "documentId": "h66xq7wyolnoemcq9reqwekl",
+      "metalType": "Gold",
+      "minWeightGram": 1,
+      "maxWeightGram": 200,
+      "createdAt": "2025-11-05T10:32:12.686Z",
+      "updatedAt": "2025-11-05T10:38:09.716Z",
+      "publishedAt": "2025-11-05T10:38:10.567Z",
+      "material_parameter": [
+        {
+          "id": 2,
+          "documentId": "bbbj7flzus1ttslizyn5iy25",
+          "attributeName": "Karat (Purity)",
+          "attributeOptions": [
+            "24k",
+            "18k",
+            "22k",
+            "14k",
+            "9k"
+          ],
+          "createdAt": "2025-11-05T10:33:09.659Z",
+          "updatedAt": "2025-11-05T10:33:09.659Z",
+          "publishedAt": "2025-11-05T10:33:10.271Z"
+        },
+        {
+          "id": 6,
+          "documentId": "v7nxoqyhhn7e6viq0qo3mqjd",
+          "attributeName": "Color Variants",
+          "attributeOptions": [
+            "Yellow",
+            "White",
+            "Rose"
+          ],
+          "createdAt": "2025-11-05T10:35:05.153Z",
+          "updatedAt": "2025-11-05T10:35:05.153Z",
+          "publishedAt": "2025-11-05T10:35:05.673Z"
+        },
+        {
+          "id": 10,
+          "documentId": "t4534488azwn0zd6oean6yd0",
+          "attributeName": "Finish Type",
+          "attributeOptions": [
+            "Glossy",
+            "Matte",
+            "Hammered",
+            "Antique"
+          ],
+          "createdAt": "2025-11-05T10:36:23.307Z",
+          "updatedAt": "2025-11-05T10:36:23.307Z",
+          "publishedAt": "2025-11-05T10:36:23.763Z"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "documentId": "ly55agsmvloypjhn85gooa8g",
+      "metalType": "Silver",
+      "minWeightGram": 0.5,
+      "maxWeightGram": 150,
+      "createdAt": "2025-11-05T10:34:19.556Z",
+      "updatedAt": "2025-11-05T10:53:02.498Z",
+      "publishedAt": "2025-11-05T10:53:03.195Z",
+      "material_parameter": [
+        {
+          "id": 4,
+          "documentId": "e34k5yvrcplpqfa5gxyltmkv",
+          "attributeName": "Purity Type",
+          "attributeOptions": [
+            "925",
+            "958",
+            "999"
+          ],
+          "createdAt": "2025-11-05T10:33:51.774Z",
+          "updatedAt": "2025-11-05T10:33:51.774Z",
+          "publishedAt": "2025-11-05T10:33:52.308Z"
+        },
+        {
+          "id": 8,
+          "documentId": "p6ilbj45lu9u7khxv1mdxqvx",
+          "attributeName": "Color Variants",
+          "attributeOptions": [
+            "Classic Silver",
+            "Oxidized",
+            "Rhodium-Plated"
+          ],
+          "createdAt": "2025-11-05T10:35:41.815Z",
+          "updatedAt": "2025-11-05T10:35:41.815Z",
+          "publishedAt": "2025-11-05T10:35:42.360Z"
+        },
+        {
+          "id": 12,
+          "documentId": "kksx4v2n5j69mudjec5lt2e8",
+          "attributeName": "Finish Type",
+          "attributeOptions": [
+            "Polished",
+            "Antique",
+            "Hammered"
+          ],
+          "createdAt": "2025-11-05T10:36:56.275Z",
+          "updatedAt": "2025-11-05T10:36:56.275Z",
+          "publishedAt": "2025-11-05T10:36:56.756Z"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 2
+    }
+  }
+}
